@@ -1,2 +1,4 @@
-let button_element = document.getElementById("h2");
-list_element.remove();
+document.querySelector('#deleteBtn1').addEventListener('click', () => {　　　　
+    const element = document.getElementById('deleteconpo');　　　　
+    element.remove();　　　
+  });
