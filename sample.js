@@ -1,4 +1,5 @@
-document.querySelector('#deleteBtn1').addEventListener('click', () => {　　　　
+
+function deleteElement(){
     const element = document.getElementById('deleteconpo');　　　　
     element.remove();　　　
-  });
+}
