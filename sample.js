@@ -1,3 +1,2 @@
-document.getElementById("button").onclick = function() {
-    document.getElementById("button").style.display = "none";
-};
+let button_element = document.getElementById("h2");
+list_element.remove();
