@@ -5,3 +5,11 @@ body{
 h2{
     color: #FF0000	;
 }
+
+ul{
+    display: flex;
+}
+
+li{
+  list-style: none;
+}
