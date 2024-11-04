@@ -7,9 +7,9 @@ h2{
 }
 
 ul{
-    display: flex;
+    display: flex	;
 }
 
 li{
-  list-style: none;
+  list-style: none	;
 }
