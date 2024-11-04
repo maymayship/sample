@@ -15,6 +15,12 @@ li{
 }
 
 nav{
+    background: #fff;
     position: fixed	;
-    top: 10px;/
+    height: 100px;
+    padding: 20px;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    width: 100%;
 }
