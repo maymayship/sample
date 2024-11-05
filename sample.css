@@ -9,11 +9,14 @@ h2{
 }
 
 ul{
-    display: flex	;
+    display: flex ;
+    margin-right: auto ;
+    margin-left: auto ;
 }
 
 li{
-  list-style: none	;
+    list-style: none ;
+    margin: 0px ;
 }
 
 nav{
@@ -24,6 +27,4 @@ nav{
     left: 0px;
     right: 0px;
     width: 100%;
-    margin-right: auto ;
-    margin-left: auto ;
 }
