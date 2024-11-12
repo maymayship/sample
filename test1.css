@@ -55,13 +55,13 @@ nav{
     position: relative;
     padding-top: 40px;
     text-align: auto;
-  }
+}
 
 .kodawari_product p{
     flex: 3;
     min-height: 300px;
     margin-left: 20px;
-  }
+}
 
 .kodawari_images img {
     height: auto;
