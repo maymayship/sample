@@ -1,0 +1,32 @@
+body{
+    font-family: Arial ;
+    padding-top: 180px;
+    text-align: center
+}
+
+h2{
+    color: #FF0000	;
+}
+
+ul{
+    display: flex ;
+    margin-right: auto ;
+    margin-left: auto ;
+    display: flex;
+	justify-content: center;
+}
+
+li{
+    list-style: none ;
+    margin: 0px ;
+}
+
+nav{
+    background: #fff;
+    position: fixed	;
+    height: 100px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+}
