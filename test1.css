@@ -64,6 +64,6 @@ nav{
   }
 
 .kodawari_images img {
-    height: 1000;
+    height: auto;
     width: calc(100% / 2); 
 }
